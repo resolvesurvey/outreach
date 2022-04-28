@@ -1,0 +1,8 @@
+name : resolve-outreach-env
+
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+
