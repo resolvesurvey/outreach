@@ -1,4 +1,4 @@
-# Tutorial #1: What is a Galaxy?
+# Tutorial #1: What is a galaxy?
 
 In the first tutorial of this series, you will use the Python programming language and the RESOLVE survey database to answer some fundamental questions about galaxies:
 - What do galaxies look like?
