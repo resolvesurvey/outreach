@@ -1,6 +1,6 @@
 # Tutorial #2: galaxies and their different flavors
 
-In the first tutorial of this series, you will use the Python programming language and the RESOLVE survey database to answer some fundemental questions about galaxies:
+In the first tutorial of this series, you will use the Python programming language and the RESOLVE survey database to answer some fundamental questions about galaxies:
 * What types of galaxies are there?
 * What is the relationship between galaxy color and galaxy mass?
 * What is the relationship between galaxy color and galaxy shape?
